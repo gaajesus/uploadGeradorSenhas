@@ -1,0 +1,10 @@
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Gerador de senhas\Gerador de senhas\bin\Debug\Gerador de senhas.exe.config
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Gerador de senhas\Gerador de senhas\bin\Debug\Gerador de senhas.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Gerador de senhas\Gerador de senhas\bin\Debug\Gerador de senhas.pdb
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador de senhas.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador_de_senhas.Form1.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador_de_senhas.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador de senhas.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador de senhas.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador de senhas.exe
+C:\Users\gabri\OneDrive\Ambiente de Trabalho\C#\Gerador de senhas\Gerador de senhas\obj\Debug\Gerador de senhas.pdb
